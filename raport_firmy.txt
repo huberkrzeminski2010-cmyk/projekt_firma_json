@@ -1,0 +1,38 @@
+Raport firmy: Sklep Szkolny Python
+Data wygenerowania: 2026-10-04 13:20:25
+
+UZYTKOWNICY:
+- ID: 1
+  Login: admin
+  Imie i nazwisko: Anna Admin
+  Rola: admin
+  Uprawnienia: manage_users, sell, order, report
+- ID: 2
+  Login: kasjer
+  Imie i nazwisko: Kamil Kasjer
+  Rola: pracownik
+  Uprawnienia: sell, report
+- ID: 3
+  Login: magazyn
+  Imie i nazwisko: Marta Magazynier
+  Rola: pracownik
+  Uprawnienia: order
+
+PRODUKTY:
+- ID: 1
+  Nazwa: Laptop
+  Cena: 3200 zl
+  Ilosc w magazynie: 5
+- ID: 2
+  Nazwa: Mysz komputerowa
+  Cena: 80 zl
+  Ilosc w magazynie: 19
+- ID: 3
+  Nazwa: Klawiatura
+  Cena: 150 zl
+  Ilosc w magazynie: 12
+
+FINANSE FIRMY:
+Stan konta: 10080 zl
+Przychody: 80 zl
+Wydatki: 0 zl

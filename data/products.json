@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Laptop",
+        "price": 3200,
+        "quantity": 5
+    },
+    {
+        "id": 2,
+        "name": "Mysz komputerowa",
+        "price": 80,
+        "quantity": 19
+    },
+    {
+        "id": 3,
+        "name": "Klawiatura",
+        "price": 150,
+        "quantity": 12
+    }
+]

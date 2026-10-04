@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "login": "admin",
+        "password": "admin123",
+        "name": "Anna Admin",
+        "role": "admin",
+        "permissions": [
+            "manage_users",
+            "sell",
+            "order",
+            "report"
+        ]
+    },
+    {
+        "id": 2,
+        "login": "kasjer",
+        "password": "kasjer123",
+        "name": "Kamil Kasjer",
+        "role": "pracownik",
+        "permissions": [
+            "sell",
+            "report"
+        ]
+    },
+    {
+        "id": 3,
+        "login": "magazyn",
+        "password": "magazyn123",
+        "name": "Marta Magazynier",
+        "role": "pracownik",
+        "permissions": [
+            "order"
+        ]
+    },
+    {
+    "id": 4,
+    "login": "nowy",
+    "password": "nowy123",
+    "name": "Nowy Pracownik",
+    "role": "pracownik",
+    "permissions": [
+        "sell"
+    ]
+}
+]
